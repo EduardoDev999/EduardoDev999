@@ -8,15 +8,14 @@
 
 <div style = display: inline_block><br/>
   <img aling="center" alt="htmls" src= />
-</div> 
 
 <div style = display: inline_block><br/>
   <img aling="center" alt="htmls" src= />
-</div> 
+
 
 <div style = display: inline_block><br/>
   <img aling="center" alt="htmls" src= />
-</div> 
+
 
 <div style = display: inline_block><br/>
   <img aling="center" alt="htmls" src= />
