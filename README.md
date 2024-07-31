@@ -3,7 +3,7 @@
 
 - I’m currently working on Prefeitura de Pinhais
 - I’m currently learning Desenvolvimento de Sistemas
-- Para mais informações veja meu <a href="https://github.com/EduardoDev999/EduardoDev999/blob/main/Eduardo%20Padilha%20.pdf" class="nav-link"> **Curriculo** </a>
+- For more information see my <a href="https://github.com/EduardoDev999/EduardoDev999/blob/main/Eduardo%20Padilha%20.pdf" class="nav-link"> **Curriculum** </a>
 
   <div style = display: inline_block><br/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
