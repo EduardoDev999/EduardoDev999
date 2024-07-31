@@ -2,10 +2,6 @@
 
 - 🔭 I’m currently working on Prefeitura de Pinhais
 - 🌱 I’m currently learning Desenvolvimento de Sistemas
-- 🤔 I’m looking for help with Devs
-- 💬 Ask me about C++
-- 📫 How to reach me: Linkedin
-
 <div style = display: inline_block><br/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
