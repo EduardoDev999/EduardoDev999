@@ -6,5 +6,18 @@
 - 💬 Ask me about C++
 - 📫 How to reach me: Linkedin
 
-  [!](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
+<div style = display: inline_block><br/>
+  <img aling="center" alt="htmls" src= />
+</div> 
+
+<div style = display: inline_block><br/>
+  <img aling="center" alt="htmls" src= />
+</div> 
+
+<div style = display: inline_block><br/>
+  <img aling="center" alt="htmls" src= />
+</div> 
+
+<div style = display: inline_block><br/>
+  <img aling="center" alt="htmls" src= />
+</div> 
