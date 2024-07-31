@@ -1,3 +1,6 @@
+![logo](https://github.com/EduardoDev999/EduardoDev999/blob/main/Eduardo%20Padilha%20.pdf)
+
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-padilha-castanho-567954320/)
 
