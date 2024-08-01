@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-padilha-castanho-567954320/)
 
 - I’m currently working on Prefeitura de Pinhais
-- I’m currently learning Desenvolvimento de Sistema
+- I’m currently learning Desenvolvimento de Sistemas
   
 - For more information see my <a href="https://github.com/EduardoDev999/EduardoDev999/blob/main/Eduardo%20Padilha%20.pdf" class="nav-link"> **Curriculum** </a>
 
