@@ -4,7 +4,7 @@
 
 - I’m currently working on Prefeitura de Pinhais
 - I’m currently learning Desenvolvimento de Sistemas
-  .
+  
 - For more information see my <a href="https://github.com/EduardoDev999/EduardoDev999/blob/main/Eduardo%20Padilha%20.pdf" class="nav-link"> **Curriculum** </a>
 
   <div style = display: inline_block><br/>
