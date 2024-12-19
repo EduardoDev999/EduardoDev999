@@ -1,4 +1,4 @@
-[![Linkedin]([www.linkedin.com/in/eduardo-padilha-castanho-b57971329/](https://www.linkedin.com/in/eduardo-padilha-castanho-b57971329/))
+
 
 - I’m currently working on Prefeitura de Pinhais
 - I’m currently learning Desenvolvimento de Sistemas
